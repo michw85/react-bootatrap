@@ -1,7 +1,8 @@
 # Landing page on react and bootstrap
 
 This is simple layout of the landing page on react and bootstrap
-Еest tasks for the layout of a one-page site
+---
+Test tasks for the layout of a one-page site
 
 ---
 
